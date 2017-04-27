@@ -1,1 +1,1 @@
-alert("dzia³a");
+alert("dziala");
